@@ -1,0 +1,6 @@
+Medical imaging is the technique and process of imaging the interior of a body for clinical analysis and medical intervention, as well as visual. Medical imaging refers to several different technologies that are used to view the human body in order to diagnose, monitor, or treat medical conditions. Common types of imaging include:
+X-rays.
+CT (computed tomography) scan.
+MRI (magnetic resonance imaging)
+ultrasound.
+nuclear medicine imaging, including positron-emission tomography (PET)
